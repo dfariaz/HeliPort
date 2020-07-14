@@ -26,8 +26,8 @@
 "Remember this network" = "Lembrar desta rede";
 "Security:" = "Segurança:";
 "Show password" = "Exibir senha";
-"Turn Wi-Fi Off" = "Ativar Wi-Fi";
-"Turn Wi-Fi On" = "Desativar Wi-Fi";
+"Turn Wi-Fi Off" = "Desativar Wi-Fi";
+"Turn Wi-Fi On" = "Ativar Wi-Fi";
 "Unavailable" = "Indisponível";
 "Unknown" = "Unknown"; // FIXME
 "Unreachable" = "Unreachable"; // FIXME
@@ -48,7 +48,7 @@
 "Wi-Fi Network \"" = "Rede Wi-Fi \"";
 "Wi-Fi: Off" = "Wi-Fi: Desativado";
 "Wi-Fi: On" = "Wi-Fi: Ativado";
-"Wi-Fi: Status unavailable" = "Wi-Fi: Status unavailable"; // FIXME
+"Wi-Fi: Status unavailable" = "Wi-Fi: Status Indisponível"; // FIXME
 "\" Requires Password" = "\" Necessita de Senha";
 "    IP Address: "      = "    IP Address: ";       // FIXME
 "    Router: "          = "    Router: ";           // FIXME
