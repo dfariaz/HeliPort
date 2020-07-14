@@ -4,8 +4,10 @@
 "Check for Updates..." = "Ελεγχος για Ενημερώσεις...";
 "Create Diagnostics Report..." = "Δημιουργία Αναφοράς Διαγνωστικών...";
 "Create Network..." = "Δημιουργία Δικτύου...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "Αποσύνδεση από: ";
 "Dynamic WEP" = "Δυναμικό WEP";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Ενεργοποίηση Καταγραφής Wi-Fi";
 "Enter the name and security type of the network you want to join." = "Εισάγετε το όνομα και τον τύπο ασφαλείας του δικτύου στο οποίο θέλετε να εισέλθετε.";
 "FUNCTION NOT IMPLEMENTED" = "ΜΗ ΔΙΑΘΕΣΙΜΗ ΛΕΙΤΟΥΡΓΙΑ";

@@ -4,8 +4,10 @@
 "Check for Updates..." = "Проверка обновлений...";
 "Create Diagnostics Report..." = "Создать отчет...";
 "Create Network..." = "Создать сеть...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "Отключиться от: ";
 "Dynamic WEP" = "Динамический WEP";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Включить логирование Wi-Fi";
 "Enter the name and security type of the network you want to join." = "Выберете имя и тип шифрования сети, к которой хотите подключиться.";
 "FUNCTION NOT IMPLEMENTED" = "ФУНКЦИЯ НЕ РЕАЛИЗОВАНА";

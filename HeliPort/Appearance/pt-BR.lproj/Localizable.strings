@@ -4,8 +4,10 @@
 "Check for Updates..." = "Buscando atualizações...";
 "Create Diagnostics Report..." = "Criar Report de Diagnóstico...";
 "Create Network..." = "Adicionar Rede...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "Disconnect from: "; //FIXME
 "Dynamic WEP" = "WEP Dinâmico";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Ativar Registro de Wi-Fi";
 "Enter the name and security type of the network you want to join." = "Digite o nome e o tipo de segurança da rede à qual você deseja acessar. ";
 "FUNCTION NOT IMPLEMENTED" = "FUNÇÃO NÃO IMPLEMENTADA";

@@ -4,8 +4,10 @@
 "Check for Updates..." = "检查更新...";
 "Create Diagnostics Report..." = "创建诊断报告...";
 "Create Network..." = "创建网络...";
+"Disable Auto Launch" = "禁用自动启动";
 "Disconnect from: " = "断开：";
 "Dynamic WEP" = "动态WEP";
+"Enable Auto Launch" = "启用自动启动";
 "Enable Wi-Fi Logging" = "启用Wi-Fi记录";
 "Enter the name and security type of the network you want to join." = "输入您想要加入的网络的名称和安全性类型。";
 "FUNCTION NOT IMPLEMENTED" = "功能尚未实现";

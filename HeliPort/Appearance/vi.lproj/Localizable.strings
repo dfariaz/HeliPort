@@ -4,8 +4,10 @@
 "Check for Updates..." = "Kiểm tra cập nhật...";
 "Create Diagnostics Report..." = "Tạo báo cáo lỗi...";
 "Create Network..." = "Tạo mạng mới...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "Huỷ kết nối: ";
 "Dynamic WEP" = "WEP cố định";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Bật ghi lỗi Wifi";
 "Enter the name and security type of the network you want to join." = "Nhập tên và loại bảo mật của mạng mà bạn muốn kết nối.";
 "FUNCTION NOT IMPLEMENTED" = "CHỨC NĂNG CHƯA HOẠT ĐỘNG";

@@ -4,8 +4,10 @@
 "Check for Updates..." = "업데이트 확인...";
 "Create Diagnostics Report..." = "진단 리포트 생성...";
 "Create Network..." = "네트워크 생성...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "연결 해제: ";
 "Dynamic WEP" = "동적 WEP";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Wi-Fi 로그 기록 활성화";
 "Enter the name and security type of the network you want to join." = "연결하려는 네트워크의 이름 및 보안 유형을 입력하십시오.";
 "FUNCTION NOT IMPLEMENTED" = "기능이 구현되지 않았습니다";

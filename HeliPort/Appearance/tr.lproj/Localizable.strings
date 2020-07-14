@@ -4,8 +4,10 @@
 "Check for Updates..." = "Güncelleme...";
 "Create Diagnostics Report..." = "Tanı Raporu Oluştur...";
 "Create Network..." = "Ağ Oluştur...";
+"Disable Auto Launch" = "Disable Auto Launch"; // FIXME
 "Disconnect from: " = "Bağlantıyı Kapat: ";
 "Dynamic WEP" = "Dinamik WEP";
+"Enable Auto Launch" = "Enable Auto Launch"; // FIXME
 "Enable Wi-Fi Logging" = "Wi-Fi Tanılamayı Aç";
 "Enter the name and security type of the network you want to join." = "Bağlanmak istediğiniz kablosuz ağın adını ve güvenlik türünü girin.";
 "FUNCTION NOT IMPLEMENTED" = "FONKSİYON KULLANIMDA DEĞİL";
